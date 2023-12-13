@@ -7,8 +7,7 @@
     <title>Calculadora de IMC</title>
     <link rel="stylesheet" href="/assets/css/style.css">
     <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
-    <link rel="stylesheet" href="https://cdnj.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css">
-
+    <script src="https://kit.fontawesome.com/ee19e2b53a.js" crossorigin="anonymous"></script>
     <script src="/assets/js/script.js"></script>
 </head>
 <body>
@@ -28,10 +27,50 @@
                         Peso em Kg
                     </label>
                     <div class="input-field">
-
+                        <i class="fa-solid fa-weight-hanging"></i>
+                        <input type="number" id="weight" required>
+                        <span>
+                            Kg
+                        </span>
                     </div>
                 </div>
+
+                <div class="input-box">
+                    <label for="height">
+                        Altura em metros
+                    </label>
+                    <div class="input-field">
+                        <i class="fa-solid fa-ruler"></i>
+                        <input type="number" id="height" required>
+                        <span>
+                            m
+                        </span>
+                    </div>
+                </div>
+
+                <button id="calculate">
+                    Calcular
+                </button>
             </form>
+
+            <div id="infos">
+                <div id="result">
+                    <div id="bmi">
+                        <span id="value"></span>
+                        <span>Seu IMC</span>
+                    </div>
+                    <div id="description">
+                        <span></span>        
+                    </div>        
+                </div>
+
+                <div id="more_info">
+                    <a href="https://mundoeducacao.uol.com.br/saude-bem-estar/imc.htm">
+                        Mais informações sobre o IMC
+                        <i class="fa-solid fa-arrow-up-right-from-square"></i>
+                    </a>
+                </div>            
+            </div>    
         </section>
     </main>
 </body>
