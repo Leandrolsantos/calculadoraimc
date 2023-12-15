@@ -50,7 +50,7 @@ body {
 #title::after {
     position: absolute;
     content: '';
-    background-color: #16a34a;
+    background-color: #e75353;
     width: 8rem;
     height: 4px;
     bottom: 0;
@@ -103,7 +103,7 @@ body {
     border: none;
     font-size: 1.25rem;
     font-weight: bold;
-    background-color: #16a34a;
+    background-color: #e75353;
     color: #f8fafc;
     padding: 0.5rem 0;
     cursor: pointer;
@@ -139,7 +139,7 @@ body {
 }
 
 #more_info a {
-    color: #16a34a;
+    color: #e75353;
     display: flex;
     justify-content: center;
     align-items: center;
