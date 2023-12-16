@@ -101,12 +101,19 @@ body {
 
 #calculate {
     border: none;
-    font-size: 1.25rem;
+    border-radius: 5px;
+    font-size: 1.3rem;
     font-weight: bold;
     background-color: #e75353;
     color: #f8fafc;
     padding: 0.5rem 0;
     cursor: pointer;
+    text-shadow: 2px 2px 4px black;
+    transition: 0.5s ease-in-out;
+}
+
+#calculate:hover {
+    transform: scale(1.02);
 }
 
 #result {

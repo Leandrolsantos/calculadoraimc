@@ -13,6 +13,8 @@ form.addEventListener('submit', function(event) {
 
     document.getElementById('infos').classList.remove('hidden');
 
+    //Calculate Bmi
+
     if(bmi < 18.5) {
         description = 'Cuidado! Você está abaixo do peso!'
     } else if (bmi>= 18.5 && bmi <= 25) {
