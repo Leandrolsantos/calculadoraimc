@@ -8,17 +8,17 @@ Deploy: (EM BREVE)
 
 Youtube: (EM BREVE)
 
-## About
+## Sobre
 
-(EM BREVE)
+É uma calculadora que dá o resultado de Índice de massa corpórea. 
 
 ### Objectives
 
-(EM BREVE)
+Praticar minhas habilidades de HTML, CSS e JS.
 
 ### Challenges
 
-(EM BREVE)
+Desenvolver meus conhecimento de Javascript.
 
 ### Conclusion
 
