@@ -11,6 +11,8 @@ form.addEventListener('submit', function(event) {
     const value = document.getElementById('value');
     let description = '';
 
+    value.classList.add('attention');
+
     document.getElementById('infos').classList.remove('hidden');
 
     //Calculate Bmi
@@ -19,6 +21,8 @@ form.addEventListener('submit', function(event) {
         description = 'Cuidado! Você está abaixo do peso!'
     } else if (bmi>= 18.5 && bmi <= 25) {
         description = "Parabéns! Você está no peso ideal!";
+        value.classList.remove('attention');
+        value.classList.add('normal');
     } else if (bmi > 25 && bmi <= 30) {
         description = "Cuidado! Você está com sobrepeso!";
     } else if (bmi > 30 && bmi <= 35) {
