@@ -1,12 +1,8 @@
 # Calculadora IMC
  
-![](./)
+![](./assets/img/tela1.png)
 
-![](./)
-
-Deploy: (EM BREVE)
-
-Youtube: (EM BREVE)
+Deploy: (https://calculadoraimc-five.vercel.app/)
 
 ## Sobre
 
@@ -22,7 +18,7 @@ Desenvolver meus conhecimento de Javascript.
 
 ### Conclusão
 
-(EM BREVE)
+Depois de um tempo parado por causa da minha mudança para Portugal, retorno agpra aos meus estudos de Desenvolvimento Front-end. Este projeto foi o último que pratiquei com o vídeo da Larissa e lembro me gostei muito de praticá-lo. De agora em diante, irei me aprofundar mais nos estudos e ir mais devagar com as práticas de projetos em vídeo e desenvolver pequenas coisas, como botões e interações com JS, pois irei estuda com os livros e aulas online.
 
 ### Marcação & Linguagem
 
