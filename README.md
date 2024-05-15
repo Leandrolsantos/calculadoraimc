@@ -18,7 +18,7 @@ Desenvolver meus conhecimento de Javascript.
 
 ### Conclusão
 
-Depois de um tempo parado por causa da minha mudança para Portugal, retorno agpra aos meus estudos de Desenvolvimento Front-end. Este projeto foi o último que pratiquei com o vídeo da Larissa e lembro me gostei muito de praticá-lo. De agora em diante, irei me aprofundar mais nos estudos e ir mais devagar com as práticas de projetos em vídeo e desenvolver pequenas coisas, como botões e interações com JS, pois irei estuda com os livros e aulas online.
+Depois de um tempo parado por causa da minha mudança para Portugal, retorno agora aos meus estudos de Desenvolvimento Front-end. Este projeto foi o último que pratiquei com o vídeo da Larissa e lembro-me que gostei muito de praticá-lo. De agora em diante, irei me aprofundar mais nos estudos e ir mais devagar com as práticas de projetos em vídeo e desenvolver pequenas coisas, como botões e interações com JS, pois irei estudar mais a fundo com os livros e aulas online.
 
 ### Marcação & Linguagem
 
